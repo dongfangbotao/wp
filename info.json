@@ -1,0 +1,91 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://pan.hechuanyun.xyz/",
+            "path": "index.html",
+            "saved": true,
+            "size": 4323,
+            "children": [
+                {
+                    "url": "https://pan.hechuanyun.xyz/static/js/6.cad1736a.chunk.js",
+                    "path": "js/6.cad1736a.chunk.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://pan.hechuanyun.xyz/static/js/main.cf15fbf6.chunk.js",
+                    "path": "js/main.cf15fbf6.chunk.js",
+                    "saved": true,
+                    "size": 395702,
+                    "children": []
+                },
+                {
+                    "url": "https://pan.hechuanyun.xyz/static/css/6.d9dc5367.chunk.css",
+                    "path": "css/6.d9dc5367.chunk.css",
+                    "saved": true,
+                    "size": 4471,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "pan-hechuanyun-xyz-bgtfcbsp",
+    "info": {
+        "remark": [],
+        "title": "鹤川云盘",
+        "domain": "pan.hechuanyun.xyz",
+        "origin": "https://pan.hechuanyun.xyz",
+        "ip": "141.94.115.91",
+        "main": "index.html",
+        "url": "https://pan.hechuanyun.xyz/",
+        "totalSize": "404 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://pan.hechuanyun.xyz/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://pan.hechuanyun.xyz/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Tue, 04 Oct 2022 11:31:36 GMT",
+                "content-type": "text/html",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "set-cookie": [
+                    "X_CACHE_KEY=4a71b83bf02cdbad8ee99665ab8968b7; path=/; Expires=Fri, 31-Dec-9999 23:59:59 GMT"
+                ],
+                "cache-control": "no-cache"
+            }
+        },
+        "time": {
+            "start": "2022-10-04T11:31:35.119Z",
+            "end": "2022-10-04T11:31:39.820Z"
+        }
+    },
+    "options": {
+        "url": "https://pan.hechuanyun.xyz/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
